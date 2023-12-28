@@ -40,7 +40,7 @@ function Projects() {
               title="Weather App"
               description="Crafted a sleek and functional weather app using HTML, CSS, and JavaScript, demonstrating proficiency in front-end development. Implemented responsive design for seamless user experience, offering real-time weather information with intuitive interface design."
               ghLink="https://github.com/aliJawed657/Weather-App"
-              demoLink="weather-app-three-drab.vercel.app"
+              demoLink="https://weather-app-elgk.vercel.app/"
             />
           </Col>
 
